@@ -1,0 +1,150 @@
+{"question_id": "47v9l8c2cafvnw8", "image": "2415498.jpg", "question": "Does a woman hold a bread in the image ?", "label": "yes", "answer": "eat", "initial_answer": "sit", "model": "gpt-5"}
+{"question_id": "ao7o38z0td8glgi", "image": "2394599.jpg", "question": "Does a person hold a rifle in the image ?", "label": "yes", "answer": "see", "initial_answer": "ski", "model": "gpt-5"}
+{"question_id": "1zjris6m77wzqnj", "image": "2394587.jpg", "question": "Does a child eat an apple in the image ?", "label": "yes", "answer": "see", "initial_answer": "grasping", "model": "gpt-5"}
+{"question_id": "idk4l17881nysbz", "image": "2394587.jpg", "question": "Does a child wear a bib in the image ?", "label": "yes", "answer": "hold", "initial_answer": "holding", "model": "gpt-5"}
+{"question_id": "qb8529y8iue7kqi", "image": "2394576.jpg", "question": "Does a person ride a surfboard in the image ?", "label": "yes", "answer": "see", "initial_answer": "extend", "model": "gpt-5"}
+{"question_id": "r5z4dfkqafyr598", "image": "2394547.jpg", "question": "Does a zebra eat a grass in the image ?", "label": "yes", "answer": "smell", "initial_answer": "stand", "model": "gpt-5"}
+{"question_id": "6169ig3jivpcs8d", "image": "2394539.jpg", "question": "Does a man point a food in the image ?", "label": "yes", "answer": "look", "initial_answer": "sitting", "model": "gpt-5"}
+{"question_id": "mq1jmnulpefm14g", "image": "2394535.jpg", "question": "Does a person ride a skateboard in the image ?", "label": "yes", "answer": "grab", "initial_answer": "reach", "model": "gpt-5"}
+{"question_id": "fsxremyjifsjajc", "image": "2394522.jpg", "question": "Does a woman hold a kite in the image ?", "label": "yes", "answer": "look", "initial_answer": "looking", "model": "gpt-5"}
+{"question_id": "38rrd9yccl8dltk", "image": "2394511.jpg", "question": "Does a cat sit a chair in the image ?", "label": "yes", "answer": "touch", "initial_answer": "look", "model": "gpt-5"}
+{"question_id": "yvjgm8a4zj2w0cc", "image": "2399456.jpg", "question": "Does an airplane fly a ground in the image ?", "label": "yes", "answer": "touch", "initial_answer": "look", "model": "gpt-5"}
+{"question_id": "4vpi2ewg76skcdx", "image": "2407918.jpg", "question": "Does a woman talk a phone in the image?", "label": "yes", "answer": "hold", "initial_answer": "look", "model": "gpt-5"}
+{"question_id": "4iefdacmewbxxvf", "image": "2399443.jpg", "question": "Does a woman pet a dog in the image ?", "label": "yes", "answer": "see", "initial_answer": "bend", "model": "gpt-5"}
+{"question_id": "l2ykam77et5fa7y", "image": "2399443.jpg", "question": "Does a woman stand a beach in the image ?", "label": "yes", "answer": "see", "initial_answer": "petting", "model": "gpt-5"}
+{"question_id": "bazv19g9z7sbld8", "image": "2399430.jpg", "question": "Does a man swing a bat in the image ?", "label": "yes", "answer": "see", "initial_answer": "squat", "model": "gpt-5"}
+{"question_id": "keiatttyvuxsqo3", "image": "2399430.jpg", "question": "Does a man wear a helmet in the image ?", "label": "yes", "answer": "hold", "initial_answer": "swing", "model": "gpt-5"}
+{"question_id": "1icmxyor0bsf19t", "image": "2399421.jpg", "question": "Does a car move a road in the image ?", "label": "yes", "answer": "touch", "initial_answer": "look", "model": "gpt-5"}
+{"question_id": "woirs5rn6hrjvd2", "image": "2399419.jpg", "question": "Does a person hold a surfboard in the image ?", "label": "yes", "answer": "see", "initial_answer": "walk", "model": "gpt-5"}
+{"question_id": "nb1nm2zb8ipipqk", "image": "2399418.jpg", "question": "Does a person stand a surfboard in the image ?", "label": "yes", "answer": "hold", "initial_answer": "stretch", "model": "gpt-5"}
+{"question_id": "ev3ofpbgk4ohvg7", "image": "2399416.jpg", "question": "Does a person ride a motorcycle in the image ?", "label": "yes", "answer": "steer", "initial_answer": "look", "model": "gpt-5"}
+{"question_id": "22xfwags98moyhk", "image": "2407989.jpg", "question": "Does a man sit a bed in the image?", "label": "yes", "answer": "touch", "initial_answer": "look", "model": "gpt-5"}
+{"question_id": "jo2eiaz2dqajopn", "image": "2399412.jpg", "question": "Does a person wear a glasses in the image ?", "label": "yes", "answer": "hold", "initial_answer": "sit", "model": "gpt-5"}
+{"question_id": "tqyeyhjct7uuzfp", "image": "2399409.jpg", "question": "Does a person ski a snow in the image ?", "label": "yes", "answer": "see", "initial_answer": "look", "model": "gpt-5"}
+{"question_id": "1af5wccgd36rvr5", "image": "2399406.jpg", "question": "Does a man lead a horse in the image ?", "label": "yes", "answer": "see", "initial_answer": "stand", "model": "gpt-5"}
+{"question_id": "69kmcyql412vspl", "image": "2399406.jpg", "question": "Does a man hold a rope in the image ?", "label": "yes", "answer": "stand", "initial_answer": "standing", "model": "gpt-5"}
+{"question_id": "cbtkek11z6k317s", "image": "2399398.jpg", "question": "Does a person ski a snow in the image ?", "label": "yes", "answer": "see", "initial_answer": "look", "model": "gpt-5"}
+{"question_id": "mj3xckuk4u6moy1", "image": "2399397.jpg", "question": "Does an airplane park a ground in the image ?", "label": "yes", "answer": "walk", "initial_answer": "look", "model": "gpt-5"}
+{"question_id": "2xlwluucgm2xltz", "image": "2399392.jpg", "question": "Does a zebra walk a grass in the image ?", "label": "yes", "answer": "see", "initial_answer": "look", "model": "gpt-5"}
+{"question_id": "sjv3dv4ajo11yqy", "image": "2399385.jpg", "question": "Does a woman hold a cup in the image ?", "label": "yes", "answer": "see", "initial_answer": "look", "model": "gpt-5"}
+{"question_id": "ukly4c3v03jjolc", "image": "2399381.jpg", "question": "Does a person ride a skateboard in the image ?", "label": "yes", "answer": "hold", "initial_answer": "look", "model": "gpt-5"}
+{"question_id": "ypw16z5ikjghbqs", "image": "2399372.jpg", "question": "Does a person hold a surfboard in the image ?", "label": "yes", "answer": "see", "initial_answer": "stand", "model": "gpt-5"}
+{"question_id": "nru14xfosi1ebel", "image": "2399365.jpg", "question": "Does a man hold a bat in the image ?", "label": "yes", "answer": "see", "initial_answer": "step", "model": "gpt-5"}
+{"question_id": "6kdg2kbpi2b0j0g", "image": "2407975.jpg", "question": "Does a person hold a pole in the image?", "label": "yes", "answer": "kick", "initial_answer": "look", "model": "gpt-5"}
+{"question_id": "j2bm6lhawopr8ms", "image": "2399350.jpg", "question": "Does a giraffe stand a ground in the image ?", "label": "yes", "answer": "see", "initial_answer": "gaze", "model": "gpt-5"}
+{"question_id": "a0jtfpbdwgvthc1", "image": "2399330.jpg", "question": "Does a person sit a bench in the image ?", "label": "yes", "answer": "touch", "initial_answer": "look", "model": "gpt-5"}
+{"question_id": "6joorgwakmd0ywo", "image": "2399302.jpg", "question": "Does a person eat a bread in the image ?", "label": "yes", "answer": "hold", "initial_answer": "holding", "model": "gpt-5"}
+{"question_id": "fwmhdbyaugqbbt7", "image": "2399297.jpg", "question": "Does a woman hold an umbrella in the image ?", "label": "yes", "answer": "see", "initial_answer": "stand", "model": "gpt-5"}
+{"question_id": "4nrrsfde0cz61du", "image": "2399297.jpg", "question": "Does a man hold a cup in the image ?", "label": "yes", "answer": "see", "initial_answer": "stand", "model": "gpt-5"}
+{"question_id": "bawnlcdnyrr5djx", "image": "2399294.jpg", "question": "Does a person ride a skateboard in the image ?", "label": "yes", "answer": "see", "initial_answer": "look", "model": "gpt-5"}
+{"question_id": "a50n7fllwfxe47v", "image": "2399291.jpg", "question": "Does a man crouch a board in the image ?", "label": "yes", "answer": "touch", "initial_answer": "touch", "model": "gpt-5"}
+{"question_id": "354bdpinqopgmro", "image": "2399291.jpg", "question": "Does a man surf a water in the image ?", "label": "yes", "answer": "touch", "initial_answer": "touches", "model": "gpt-5"}
+{"question_id": "05bj9vmi75i8p2b", "image": "2407936.jpg", "question": "Does a man catch a frisbee in the image?", "label": "yes", "answer": "see", "initial_answer": "look", "model": "gpt-5"}
+{"question_id": "mgn6ehl521utwcs", "image": "2399278.jpg", "question": "Does a person surf a water in the image ?", "label": "yes", "answer": "see", "initial_answer": "gaze", "model": "gpt-5"}
+{"question_id": "1zdd19zafpmre2w", "image": "2399278.jpg", "question": "Does a person balance a surfboard in the image ?", "label": "yes", "answer": "grips", "initial_answer": "gazes", "model": "gpt-5"}
+{"question_id": "5hgg04hhf9ixkoz", "image": "2399275.jpg", "question": "Does a horse stand a water in the image ?", "label": "yes", "answer": "see", "initial_answer": "look", "model": "gpt-5"}
+{"question_id": "k9o674crzdkv57d", "image": "2407923.jpg", "question": "Does a man sit a chair in the image?", "label": "yes", "answer": "hold", "initial_answer": "wave", "model": "gpt-5"}
+{"question_id": "z1pfi19a5efijxd", "image": "2399274.jpg", "question": "Does a person use a phone in the image ?", "label": "yes", "answer": "see", "initial_answer": "look", "model": "gpt-5"}
+{"question_id": "8ygv4r2fhiolq20", "image": "2399261.jpg", "question": "Does a woman throw a frisbee in the image ?", "label": "yes", "answer": "watch", "initial_answer": "standing", "model": "gpt-5"}
+{"question_id": "7914n8kiroz192j", "image": "2399260.jpg", "question": "Does an elephant stand a grass in the image ?", "label": "yes", "answer": "grasp", "initial_answer": "nuzzle", "model": "gpt-5"}
+{"question_id": "za9bwklglxp8ivx", "image": "2394802.jpg", "question": "Does a motorcycle stand a ground in the image ?", "label": "yes", "answer": "touch", "initial_answer": "gaze", "model": "gpt-5"}
+{"question_id": "t3z3lp3o8942hn5", "image": "2394785.jpg", "question": "Does a giraffe stand a grassland in the image ?", "label": "yes", "answer": "see", "initial_answer": "look", "model": "gpt-5"}
+{"question_id": "h112n5zvshxobn2", "image": "2394772.jpg", "question": "Does a man throw a ball in the image ?", "label": "yes", "answer": "see", "initial_answer": "look", "model": "gpt-5"}
+{"question_id": "xc0you55r2r8skq", "image": "2394772.jpg", "question": "Does a man wear a shoe in the image ?", "label": "yes", "answer": "hold", "initial_answer": "look", "model": "gpt-5"}
+{"question_id": "7mzz4o1ispp18ei", "image": "2394767.jpg", "question": "Does a man wear a shirt in the image ?", "label": "yes", "answer": "wave", "initial_answer": "stand", "model": "gpt-5"}
+{"question_id": "e9rtnsp0e0pjozj", "image": "2394760.jpg", "question": "Does a man eat a food in the image ?", "label": "yes", "answer": "hold", "initial_answer": "holding", "model": "gpt-5"}
+{"question_id": "tl3ee7wgwozlof3", "image": "2394736.jpg", "question": "Does a person stand a surfboard in the image ?", "label": "yes", "answer": "hold", "initial_answer": "extend", "model": "gpt-5"}
+{"question_id": "9c6rw529qj2etkd", "image": "2394708.jpg", "question": "Does a horse eat a grass in the image ?", "label": "yes", "answer": "sniff", "initial_answer": "stand", "model": "gpt-5"}
+{"question_id": "wpkp2yl3th2fk4l", "image": "2394706.jpg", "question": "Does a person ride a skateboard in the image ?", "label": "yes", "answer": "hold", "initial_answer": "reach", "model": "gpt-5"}
+{"question_id": "4gi192jqi35gt40", "image": "2394702.jpg", "question": "Does a zebra stand a grassland in the image ?", "label": "yes", "answer": "see", "initial_answer": "gaze", "model": "gpt-5"}
+{"question_id": "wt55s6s90b47vu0", "image": "2394700.jpg", "question": "Does a bird stand a branch in the image ?", "label": "yes", "answer": "peck", "initial_answer": "gaze", "model": "gpt-5"}
+{"question_id": "5bqn8p97q2e5of0", "image": "2394697.jpg", "question": "Does a woman hold a racket in the image ?", "label": "yes", "answer": "see", "initial_answer": "run", "model": "gpt-5"}
+{"question_id": "ql5lo393s3dgbvw", "image": "2394689.jpg", "question": "Does a bird perch a branch in the image ?", "label": "yes", "answer": "peck", "initial_answer": "peck", "model": "gpt-5"}
+{"question_id": "uj30o3ojwwoyocx", "image": "2394681.jpg", "question": "Does a dog wear a collar in the image ?", "label": "yes", "answer": "bite", "initial_answer": "look", "model": "gpt-5"}
+{"question_id": "49wrmxe1a4rk07t", "image": "2394676.jpg", "question": "Does a person hold a rope in the image ?", "label": "yes", "answer": "see", "initial_answer": "look", "model": "gpt-5"}
+{"question_id": "idgq8pjkqghal64", "image": "2394674.jpg", "question": "Does a man hold a disc in the image ?", "label": "yes", "answer": "see", "initial_answer": "standing", "model": "gpt-5"}
+{"question_id": "re03k6d83f4cccf", "image": "2394649.jpg", "question": "Does a man ride a skateboard in the image ?", "label": "yes", "answer": "hold", "initial_answer": "lean", "model": "gpt-5"}
+{"question_id": "jfdrxtiw2sxknmj", "image": "2394647.jpg", "question": "Does a person hold a pen in the image ?", "label": "yes", "answer": "see", "initial_answer": "sit", "model": "gpt-5"}
+{"question_id": "znc23j20vebjs74", "image": "2394647.jpg", "question": "Does a person sit a bed in the image ?", "label": "yes", "answer": "touch", "initial_answer": "holding", "model": "gpt-5"}
+{"question_id": "v8kyeakbjpv7uxb", "image": "2394642.jpg", "question": "Does a boy hold a toothbrush in the image ?", "label": "yes", "answer": "bite", "initial_answer": "listen", "model": "gpt-5"}
+{"question_id": "gcwu6wau453afq8", "image": "2394635.jpg", "question": "Does a person stand a skateboard in the image ?", "label": "yes", "answer": "hold", "initial_answer": "look", "model": "gpt-5"}
+{"question_id": "f1gesn8f636pxlc", "image": "2398057.jpg", "question": "Does a man smoke a cigar in the image ?", "label": "yes", "answer": "hold", "initial_answer": "holding", "model": "gpt-5"}
+{"question_id": "eixj98q676pe2mc", "image": "2398041.jpg", "question": "Does a person stand a platform in the image ?", "label": "yes", "answer": "see", "initial_answer": "look", "model": "gpt-5"}
+{"question_id": "2qmratv3hl0dfs1", "image": "2398021.jpg", "question": "Does a train emit a smoke in the image ?", "label": "yes", "answer": "blow", "initial_answer": "look", "model": "gpt-5"}
+{"question_id": "qtw7rb3x4spbxjj", "image": "2398019.jpg", "question": "Does a sheep stand a grass in the image ?", "label": "yes", "answer": "graze", "initial_answer": "graze", "model": "gpt-5"}
+{"question_id": "aaah77msbqfuxbj", "image": "2398017.jpg", "question": "Does a person bite a pizza in the image ?", "label": "yes", "answer": "hold", "initial_answer": "hold", "model": "gpt-5"}
+{"question_id": "dgem1hxsiuer8lr", "image": "2398012.jpg", "question": "Does a child wear a ski in the image ?", "label": "yes", "answer": "hold", "initial_answer": "looking", "model": "gpt-5"}
+{"question_id": "spp4yusnfnazwqq", "image": "2398000.jpg", "question": "Does a player catch a ball in the image ?", "label": "yes", "answer": "kick", "initial_answer": "jump", "model": "gpt-5"}
+{"question_id": "y5dsez4kl5cjajg", "image": "2398000.jpg", "question": "Does a player wear a glove in the image ?", "label": "yes", "answer": "see", "initial_answer": "jump", "model": "gpt-5"}
+{"question_id": "vcuw5d8sd7le0hb", "image": "2397996.jpg", "question": "Does a woman hold a spatula in the image ?", "label": "yes", "answer": "see", "initial_answer": "standing", "model": "gpt-5"}
+{"question_id": "q5qcwgyeqnrv5c4", "image": "2397993.jpg", "question": "Does a person ride a surfboard in the image ?", "label": "yes", "answer": "see", "initial_answer": "look", "model": "gpt-5"}
+{"question_id": "3yw1oa449karn20", "image": "2397969.jpg", "question": "Does a man swing a racket in the image ?", "label": "yes", "answer": "see", "initial_answer": "look", "model": "gpt-5"}
+{"question_id": "wsjnjz3w17o8o5k", "image": "2407508.jpg", "question": "Does a person wear a helmet in the image ?", "label": "yes", "answer": "hold", "initial_answer": "stand", "model": "gpt-5"}
+{"question_id": "h8txwuz7yi7g4k9", "image": "2407506.jpg", "question": "Does a child wear a hat in the image ?", "label": "yes", "answer": "hold", "initial_answer": "hold", "model": "gpt-5"}
+{"question_id": "8i6bkqe8kkadakf", "image": "2407475.jpg", "question": "Does a person ride a horse in the image ?", "label": "yes", "answer": "see", "initial_answer": "hold", "model": "gpt-5"}
+{"question_id": "vmrf2nerp130n1a", "image": "2407475.jpg", "question": "Does a person wear a helmet in the image ?", "label": "yes", "answer": "hold", "initial_answer": "hold", "model": "gpt-5"}
+{"question_id": "x3ig7d315hcrja8", "image": "2407427.jpg", "question": "Does a bird stand a branch in the image ?", "label": "yes", "answer": "peck", "initial_answer": "look", "model": "gpt-5"}
+{"question_id": "zzz3i2vns30v135", "image": "2407376.jpg", "question": "Does a sign attach a pole in the image ?", "label": "yes", "answer": "face", "initial_answer": "look", "model": "gpt-5"}
+{"question_id": "rz0vd0kbh7jgjit", "image": "2407363.jpg", "question": "Does a bottle sit a ledge in the image ?", "label": "yes", "answer": "stand", "initial_answer": "grasp", "model": "gpt-5"}
+{"question_id": "ev0v3r54fgr2gdm", "image": "2401024.jpg", "question": "Does a dog lie a cushion in the image ?", "label": "yes", "answer": "touch", "initial_answer": "listen", "model": "gpt-5"}
+{"question_id": "7ybf92p0rsni5mm", "image": "2402501.jpg", "question": "Does a woman hold a glass in the image ?", "label": "yes", "answer": "see", "initial_answer": "talk", "model": "gpt-5"}
+{"question_id": "lzpk8bdeh72deb2", "image": "2402484.jpg", "question": "Does a horse eat a grass in the image ?", "label": "yes", "answer": "sniff", "initial_answer": "standing", "model": "gpt-5"}
+{"question_id": "7h6p4f8d2hjg54z", "image": "2400894.jpg", "question": "Does a person ride a motorcycle in the image ?", "label": "yes", "answer": "grip", "initial_answer": "grip", "model": "gpt-5"}
+{"question_id": "beeym4houyzu89u", "image": "2400894.jpg", "question": "Does a person wear a helmet in the image ?", "label": "yes", "answer": "hold", "initial_answer": "grip", "model": "gpt-5"}
+{"question_id": "vgml6p7816ekp6z", "image": "2400883.jpg", "question": "Does an elephant stand a water in the image ?", "label": "yes", "answer": "drink", "initial_answer": "drink", "model": "gpt-5"}
+{"question_id": "okiyfppz1xd4wan", "image": "2400881.jpg", "question": "Does a bird stand a post in the image ?", "label": "yes", "answer": "see", "initial_answer": "gaze", "model": "gpt-5"}
+{"question_id": "qi4u97nw0c2dsjr", "image": "2400860.jpg", "question": "Does a person ride a skateboard in the image ?", "label": "yes", "answer": "hold", "initial_answer": "look", "model": "gpt-5"}
+{"question_id": "mtdtxf87bnx1lvq", "image": "2400858.jpg", "question": "Does a woman hold a racket in the image ?", "label": "yes", "answer": "see", "initial_answer": "stand", "model": "gpt-5"}
+{"question_id": "3dvphwh1balj9zf", "image": "2400832.jpg", "question": "Does a person eat a bread in the image ?", "label": "yes", "answer": "hold", "initial_answer": "touching", "model": "gpt-5"}
+{"question_id": "kms0p1xt6o4uit6", "image": "2400822.jpg", "question": "Does a man hold a board in the image ?", "label": "yes", "answer": "see", "initial_answer": "walk", "model": "gpt-5"}
+{"question_id": "fuxc5acs4jalht5", "image": "2400816.jpg", "question": "Does a cat lie a ground in the image ?", "label": "yes", "answer": "gaze", "initial_answer": "gaze", "model": "gpt-5"}
+{"question_id": "wfb9zp8sxafbr7b", "image": "2405643.jpg", "label": "yes", "question": "Does a person ride a snowboard in the image?", "answer": "grip", "initial_answer": "grip", "model": "gpt-5"}
+{"question_id": "23ekk44firzliho", "image": "2399456.jpg", "label": "no", "question": "Does an airplane park a ground in the image?", "answer": "touch", "initial_answer": "blink", "model": "gpt-5"}
+{"question_id": "k8xjx8gwwh6qdqy", "image": "2398371.jpg", "label": "yes", "question": "Does a person hold a kite in the image?", "answer": "see", "initial_answer": "look", "model": "gpt-5"}
+{"question_id": "rljngz9ku8c6uc9", "image": "2401151.jpg", "label": "yes", "question": "Does an elephant walk a grassland in the image?", "answer": "see", "initial_answer": "trumpet", "model": "gpt-5"}
+{"question_id": "vdjzgm3nmhyvjz4", "image": "2397007.jpg", "label": "yes", "question": "Does a person photograph a mirror in the image?", "answer": "touch", "initial_answer": "smile", "model": "gpt-5"}
+{"question_id": "ws2ucj19zl2rlin", "image": "2395620.jpg", "label": "no", "question": "Does a zebra lie a ground in the image?", "answer": "paw", "initial_answer": "blink", "model": "gpt-5"}
+{"question_id": "oo5n2tt45me4a1n", "image": "2393610.jpg", "label": "yes", "question": "Does a man hold a glass in the image?", "answer": "see", "initial_answer": "smile", "model": "gpt-5"}
+{"question_id": "38okyb37r48944y", "image": "2395828.jpg", "label": "no", "question": "Does a man climb a mound in the image?", "answer": "see", "initial_answer": "gaze", "model": "gpt-5"}
+{"question_id": "m0k6besen3fx9nn", "image": "2083.jpg", "label": "yes", "question": "Does a microwave hang a cabinet in the image?", "answer": "kick", "initial_answer": "blink", "model": "gpt-5"}
+{"question_id": "o7fsuky0vri4q8w", "image": "2401406.jpg", "label": "no", "question": "Does a person walk a snow in the image?", "answer": "see", "initial_answer": "look", "model": "gpt-5"}
+{"question_id": "f79hgm7wqv2rrt2", "image": "2394400.jpg", "label": "no", "question": "Does a cow eat a grass in the image?", "answer": "see", "initial_answer": "look", "model": "gpt-5"}
+{"question_id": "lxmta8og6e7s7tk", "image": "2399473.jpg", "label": "no", "question": "Does a person repair a motorcycle in the image?", "answer": "see", "initial_answer": "look", "model": "gpt-5"}
+{"question_id": "kivc3h8w9kgc8ui", "image": "2396400.jpg", "label": "no", "question": "Does a man adjust a helmet in the image?", "answer": "wear", "initial_answer": "blink", "model": "gpt-5"}
+{"question_id": "c3bn4dtwam8rjpo", "image": "2399561.jpg", "label": "no", "question": "Does a bear climb a table in the image?", "answer": "sniff", "initial_answer": "blink", "model": "gpt-5"}
+{"question_id": "chmzjbjpcvac73p", "image": "2405182.jpg", "label": "yes", "question": "Does a zebra drink a water in the image?", "answer": "see", "initial_answer": "looking", "model": "gpt-5"}
+{"question_id": "mlml4osq3u4nwr6", "image": "2407846.jpg", "label": "yes", "question": "Does a man wear a cap in the image?", "answer": "adjust", "initial_answer": "blink", "model": "gpt-5"}
+{"question_id": "gpdx15uj40jp0ij", "image": "2399051.jpg", "label": "yes", "question": "Does a person wear a helmet in the image?", "answer": "grasp", "initial_answer": "grasp", "model": "gpt-5"}
+{"question_id": "56t3gxe7k4rofga", "image": "598.jpg", "label": "yes", "question": "Does a person push a cart in the image?", "answer": "see", "initial_answer": "look", "model": "gpt-5"}
+{"question_id": "cp4alxpsghpuabg", "image": "2395852.jpg", "label": "no", "question": "Does a person run a road in the image?", "answer": "build", "initial_answer": "look", "model": "gpt-5"}
+{"question_id": "gukacn7zshr7ugb", "image": "2407889.jpg", "label": "yes", "question": "Does a boat float a water in the image?", "answer": "touch", "initial_answer": "blink", "model": "gpt-5"}
+{"question_id": "d6xw445z8siinxi", "image": "3188.jpg", "label": "yes", "question": "Does a lamp attach a wall in the image?", "answer": "face", "initial_answer": "gaze", "model": "gpt-5"}
+{"question_id": "e0t2ff2mi93naf1", "image": "2906.jpg", "label": "no", "question": "Does a person clean a glasses in the image?", "answer": "wear", "initial_answer": "look", "model": "gpt-5"}
+{"question_id": "wh5lapzd9au5wo9", "image": "2394245.jpg", "label": "yes", "question": "Does a person hold an umbrella in the image?", "answer": "see", "initial_answer": "look", "model": "gpt-5"}
+{"question_id": "apnzwqj75tjewr6", "image": "2395736.jpg", "label": "no", "question": "Does a train park a bridge in the image?", "answer": "see", "initial_answer": "blink", "model": "gpt-5"}
+{"question_id": "y027cnas4c8qgqv", "image": "2407838.jpg", "label": "yes", "question": "Does a zebra stand a grass in the image?", "answer": "eat", "initial_answer": "look", "model": "gpt-5"}
+{"question_id": "yqo0u2iygdybbfp", "image": "2399037.jpg", "label": "yes", "question": "Does a woman hug a dog in the image?", "answer": "kiss", "initial_answer": "gaze", "model": "gpt-5"}
+{"question_id": "y02cc96ggswjsor", "image": "2404768.jpg", "label": "yes", "question": "Does a person ride a bicycle in the image?", "answer": "grip", "initial_answer": "grip", "model": "gpt-5"}
+{"question_id": "eujxf631vn96owd", "image": "2394454.jpg", "label": "yes", "question": "Does a ferry carry a vehicle in the image?", "answer": "hold", "initial_answer": "blink", "model": "gpt-5"}
+{"question_id": "lu6a8bhcig4xrra", "image": "2416261.jpg", "label": "no", "question": "Does a man adjust a tie in the image?", "answer": "see", "initial_answer": "smile", "model": "gpt-5"}
+{"question_id": "xkbf1fi83q7475a", "image": "140.jpg", "label": "no", "question": "Does a bicycle stand a fence in the image?", "answer": "touch", "initial_answer": "grasp", "model": "gpt-5"}
+{"question_id": "shpvai7p2q097vh", "image": "2404954.jpg", "label": "yes", "question": "Does a giraffe stand a grass in the image?", "answer": "eat", "initial_answer": "gaze", "model": "gpt-5"}
+{"question_id": "x9kap3ybjfv58dj", "image": "2410386.jpg", "label": "no", "question": "Does a person play a snow in the image?", "answer": "see", "initial_answer": "look", "model": "gpt-5"}
+{"question_id": "87n4md8qk6bnd6o", "image": "2416272.jpg", "label": "yes", "question": "Does a man hold an umbrella in the image?", "answer": "see", "initial_answer": "look", "model": "gpt-5"}
+{"question_id": "8udberwnwrpyfhl", "image": "2394502.jpg", "label": "yes", "question": "Does a child wear a goggle in the image?", "answer": "adjust", "initial_answer": "kick", "model": "gpt-5"}
+{"question_id": "9n0yrbevw2vzixe", "image": "2394453.jpg", "label": "no", "question": "Does a person leave a platform in the image?", "answer": "touch", "initial_answer": "wave", "model": "gpt-5"}
+{"question_id": "8eatjwautsj4zat", "image": "2399916.jpg", "label": "no", "question": "Does a cat play a notebook in the image?", "answer": "see", "initial_answer": "stare", "model": "gpt-5"}
+{"question_id": "ihcqx48ex8p7ban", "image": "2405514.jpg", "label": "yes", "question": "Does a person sit an elephant in the image?", "answer": "see", "initial_answer": "look", "model": "gpt-5"}
+{"question_id": "bss18bo5n6di0sv", "image": "2393754.jpg", "label": "yes", "question": "Does a bear sit a rock in the image?", "answer": "sniff", "initial_answer": "sniff", "model": "gpt-5"}
+{"question_id": "aylsxgi8medvtck", "image": "2402505.jpg", "label": "no", "question": "Does a cat chew a tie in the image?", "answer": "scratch", "initial_answer": "scratch", "model": "gpt-5"}
+{"question_id": "hyioobsrd2b9eau", "image": "1955.jpg", "label": "yes", "question": "Does a person sit a bench in the image?", "answer": "touch", "initial_answer": "wave", "model": "gpt-5"}
+{"question_id": "itjzv7kngkjlx90", "image": "2401932.jpg", "label": "no", "question": "Does a person pet a horse in the image?", "answer": "watch", "initial_answer": "gaze", "model": "gpt-5"}
+{"question_id": "7kph4lzao6yr1ci", "image": "2405913.jpg", "label": "yes", "question": "Does a person ride a skateboard in the image?", "answer": "hold", "initial_answer": "gaze", "model": "gpt-5"}
+{"question_id": "hmctyd3x25md1ol", "image": "2408302.jpg", "label": "no", "question": "Does a dog eat a food in the image?", "answer": "sniff", "initial_answer": "sniff", "model": "gpt-5"}
+{"question_id": "m90mnc7z7uw0z6e", "image": "2415517.jpg", "label": "no", "question": "Does a person ride a motorcycle in the image?", "answer": "push", "initial_answer": "blink", "model": "gpt-5"}
+{"question_id": "l8bc99qy5ncflq8", "image": "2402446.jpg", "label": "no", "question": "Does a bird peck a branch in the image?", "answer": "grip", "initial_answer": "flap", "model": "gpt-5"}
+{"question_id": "lqhktszmuxrpfy3", "image": "2407838.jpg", "label": "no", "question": "Does an elephant run a grass in the image?", "answer": "eat", "initial_answer": "gaze", "model": "gpt-5"}
+{"question_id": "lvw76gskd3kit8f", "image": "2394271.jpg", "label": "no", "question": "Does a man adjust a backpack in the image?", "answer": "see", "initial_answer": "gaze", "model": "gpt-5"}
+{"question_id": "90k90jgb5jsksxz", "image": "2394090.jpg", "label": "yes", "question": "Does a person hold a surfboard in the image?", "answer": "see", "initial_answer": "look", "model": "gpt-5"}
+{"question_id": "qb104kf6l6z7pje", "image": "2403134.jpg", "label": "no", "question": "Does a person kick a ball in the image?", "answer": "throw", "initial_answer": "throw", "model": "gpt-5"}
+{"question_id": "t7x0q361o93v4xb", "image": "2396909.jpg", "label": "no", "question": "Does a person erase a scoreboard in the image?", "answer": "see", "initial_answer": "gaze", "model": "gpt-5"}

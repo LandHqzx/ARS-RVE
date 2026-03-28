@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Results / outputs (local to RVE)
+results/
+statistical_summary/
+outputs/
+
+# Logs
+logs/
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Cache
+.cache/
+**/.pytest_cache/
+**/.mypy_cache/
+
