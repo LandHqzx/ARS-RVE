@@ -11,21 +11,21 @@ pip install -r requirements.txt
 python -m spacy download en_core_web_sm
 ```
 
-3) Default model and data paths (override via CLI if different):
+3) Default model and data paths:
 - Model: `./Models/llava-v1.5-7b`
 - Images: `./datasets/VG_100K`
 
 
 ## Usage
 
-### 1) Attention-head ARS computation (statistics + heatmap)
+### 1) Attention-head ARS computation
 
 ```bash
 python attention_statistics_analyzer.py 
 ```
 
 
-### 2) Relation hallucination evaluation (RVE)
+### 2) Relation hallucination evaluation
 
 ```bash
 python Rel_hallucination_llava_MMRel.py 
