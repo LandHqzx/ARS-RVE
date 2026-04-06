@@ -1,4 +1,4 @@
-# Mitigating Action-Relation Hallucinations in LVLMs via Relation-aware Visual Enhancement
+# [ACL2026] Mitigating Action-Relation Hallucinations in LVLMs via Relation-aware Visual Enhancement
 
 ## Setup
 
